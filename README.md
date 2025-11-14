@@ -1,0 +1,1 @@
+Example: lune run wax bundle input="sources/cryo.rbxm" output="scripts/cryo.luau" minify=true env-name="Utilities Plus" temp-dir-base="distribution" extra-offset-lines=0 ci-mode=true verbose=true
